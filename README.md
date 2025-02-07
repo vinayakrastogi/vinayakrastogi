@@ -4,6 +4,7 @@
 <!-- <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif"> -->
 <p align="center">
   <img height="200" src="main1.png">
+  <br>
   **Hi there 👋, I'm Vinayak**
 </p>
 
