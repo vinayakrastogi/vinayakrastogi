@@ -8,7 +8,9 @@
   <b>Hi there 👋, I'm Vinayak</b>
 </p>
 
+
 <p align="center">
+  <img height="200" src="https://media.tenor.com/xzjlrhYq_lQAAAAi/cat-nyan-cat.gif" > <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif">
   <img src="https://komarev.com/ghpvc/?username=vinayakrastogi" alt="Profile view counter on GitHub">
 </p>
 
