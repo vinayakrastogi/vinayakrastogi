@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
+  <img src="https://komarev.com/ghpvc/?username=vinayakrastogi" alt="Profile view counter on GitHub">
 </p>
 
 **Why This Path**
