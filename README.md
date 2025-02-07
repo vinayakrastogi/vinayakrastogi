@@ -5,7 +5,7 @@
 <p align="center">
   <img height="200" src="main1.png">
   <br>
-  **Hi there 👋, I'm Vinayak**
+  <b>Hi there 👋, I'm Vinayak</b>
 </p>
 
 <p align="center">
