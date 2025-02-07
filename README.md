@@ -5,6 +5,7 @@
 <p align="center">
   <img height="100" src="main1.png">
 </p>
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
 
 **Why This Path**
