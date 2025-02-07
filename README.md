@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Vinayak
 
-<img height="100" src="https://tenor.com/view/hampter-sad-sad-hammy-sad-hamster-sadhamster-gif-2989301433636659125">
+<img height="100" src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif">
 <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif">
 
 
