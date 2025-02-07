@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Vinayak
 
-<img height="200" src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif">
-<img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif">
+<!-- <img height="200" src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif"> -->
+<!-- <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif"> -->
+<img height="100" src="main1.png">
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
