@@ -1,9 +1,6 @@
-## Hi there 👋, I'm Vinayak
 
-<!-- <img height="200" src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif"> -->
-<!-- <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif"> -->
 <p align="center">
-  <img height="200" src="main1.png">
+  <img height="200" src="main2.png">
   <br>
   <b>Hi there 👋, I'm Vinayak</b>
 </p>
