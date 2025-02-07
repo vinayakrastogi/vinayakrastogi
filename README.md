@@ -15,7 +15,7 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 
 <p>
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakrastogi&theme=transparent&layout=compact&langs_count=16" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vinayakrastogi&theme=transparent&layout=compact">
+<!--   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vinayakrastogi&theme=transparent&layout=compact"> -->
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakrastogi&theme=transparent&show_icons=true&text_color=D93A7C" />
