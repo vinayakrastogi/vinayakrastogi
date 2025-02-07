@@ -4,9 +4,8 @@
 <!-- <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif"> -->
 <p align="center">
   <img height="100" src="main1.png">
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
 </p>
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
 
 **Why This Path**
 
