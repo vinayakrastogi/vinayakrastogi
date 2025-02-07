@@ -4,6 +4,9 @@
 <!-- <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif"> -->
 <p align="center">
   <img height="100" src="main1.png">
+</p>
+
+<p align="center">
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
 </p>
 
