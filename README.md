@@ -3,7 +3,7 @@
 <!-- <img height="200" src="https://media.tenor.com/KXwh0N56n7UAAAAi/hampter-sad.gif"> -->
 <!-- <img height="100" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif"> -->
 <center><img height="100" src="main1.png"></center>
-<center>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)</center>
+<center> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)</center>
 
 **Why This Path**
 
