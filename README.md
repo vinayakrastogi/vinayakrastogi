@@ -2,6 +2,8 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vinayakrastogi)
 
+![counter](https://eni7t03ynlw6vfk.m.pipedream.net)
+
 <!--
 **vinayakrastogi/vinayakrastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
