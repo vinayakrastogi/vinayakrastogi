@@ -1,8 +1,8 @@
 
-<p align="center">
-  <img height="200" src="main2.png">
+<p align="left">
+  <img height="100" src="main2.png">
   <br>
-  <b>Hi there 👋</b>
+  Hi there 👋
 </p>
 <br><br>
 
