@@ -2,7 +2,7 @@
 <p align="center">
   <img height="200" src="main2.png">
   <br>
-  <b>Hi there 👋, I'm Vinayak</b>
+  <b>Hi there 👋</b>
 </p>
 <br><br>
 
