@@ -22,8 +22,9 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vinayak-rastogi-9ab5a626a/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@rastogivinayak2004)
 
-<br>
+<br><br>
 <img height="100" src="https://media.tenor.com/xzjlrhYq_lQAAAAi/cat-nyan-cat.gif" > <img height="80" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif">
+
 
 ## Stats for Nerds
 <p>
