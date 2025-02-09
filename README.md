@@ -31,10 +31,11 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 </p>
 
 <br><br>
-
+<!--
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakrastogi&theme=transparent&show_icons=true&text_color=D93A7C" />
 </p>
+-->
 
 <!--
 **vinayakrastogi/vinayakrastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
