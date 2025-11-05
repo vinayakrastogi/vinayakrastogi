@@ -67,7 +67,9 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 
 ## My Articles
 
-![How multithreading can affect the efficiency of a process ?](https://medium.com/@rastogivinayak2004/how-multithreading-can-affect-the-efficiency-of-a-process-03c5e913e6b8)
+## 📝 My Articles  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rastogivinayak2004)
+[How multithreading can affect the efficiency of a process?](https://medium.com/@rastogivinayak2004/how-multithreading-can-affect-the-efficiency-of-a-process-03c5e913e6b8)
 
 
 ## Stats for Nerds
