@@ -71,6 +71,7 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakrastogi&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 <br>
+
 ![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
