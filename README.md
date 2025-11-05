@@ -65,6 +65,10 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 <br><br>
 <img height="100" src="https://media.tenor.com/xzjlrhYq_lQAAAAi/cat-nyan-cat.gif" > <img height="80" src="https://media.tenor.com/pvtgH84akfAAAAAi/shiba-inu-doggo.gif">
 
+## My Articles
+
+![](https://medium.com/@rastogivinayak2004/how-multithreading-can-affect-the-efficiency-of-a-process-03c5e913e6b8)
+
 
 ## Stats for Nerds
 
