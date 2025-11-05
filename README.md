@@ -10,6 +10,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vinayakrastogi&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="vinayakrastogi" />
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Supp+Fellas!+I'm+Vinayak+"/>
+</h3>
+
+
 <br>
 
 **Why This Path**
@@ -32,7 +37,7 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 
 ## Stats for Nerds
 <p>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakrastogi&theme=transparent&layout=compact&langs_count=16" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakrastogi&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 </p>
 
 <br>
