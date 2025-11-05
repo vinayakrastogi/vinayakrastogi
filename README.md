@@ -5,9 +5,9 @@
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=vinayakrastogi" alt="Profile view counter on GitHub">
+<!-- <img src="https://komarev.com/ghpvc/?username=vinayakrastogi" alt="Profile view counter on GitHub"> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vinayakrastogi&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Cybersnake223" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vinayakrastogi&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="vinayakrastogi" />
 </p>
 
 <br>
