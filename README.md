@@ -72,9 +72,9 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 
 <br>
 
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_vinayakrastogi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_vinayakrastogi&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_vinayakrastogi&theme=tokyonight)
 
 
 
