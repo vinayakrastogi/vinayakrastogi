@@ -1,4 +1,3 @@
-<div style="background-color:#1e1e2f; padding:20px; border-radius:10px;">
 <p align="left">
   <img height="100" src="main1.png">
   <br>
@@ -81,7 +80,6 @@ I chose Science (with Computers) in school and Computer Science and Engineering 
 
 
 
-</div>
 
 
 
