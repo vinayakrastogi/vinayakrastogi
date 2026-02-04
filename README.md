@@ -1,3 +1,16 @@
+```bash
+vinayak@github:~$ whoami
+Engineering student | CLI-first dev
+
+vinayak@github:~$ ls projects
+portfolio-cli
+socket-chat
+compiler-rust
+
+vinayak@github:~$ open vinayakrastogi.github.io
+
+
+
 > $ open vinayakrastogi.github.io
 
 
