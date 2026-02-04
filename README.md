@@ -1,11 +1,48 @@
-```bash
 vinayak@github:~$ whoami
-Engineering student | CLI-first dev
+Vinayak Rastogi
+Computer Science & Engineering
+CLI-first developer | Systems-curious | Builder
 
-vinayak@github:~$ ls projects
+vinayak@github:~$ pwd
+/home/vinayak/github-profile
+
+vinayak@github:~$ cat about.txt
+I chose Science (with Computers) in school and Computer Science
+and Engineering in college because I enjoy solving real-world
+problems with technology.
+
+I like efficient solutions, learning new tools, and applying
+them immediately to real projects. Curiosity drives everything.
+
+vinayak@github:~$ ls skills/
+c  cpp  java  python  rust
+html  css  javascript
+node  react  express  mongodb
+linux  docker  aws  blockchain
+machine-learning
+
+vinayak@github:~$ ls tools/
+git  github  vscode  intellij  eclipse
+postman  maven  npm  cloudsim-plus
+fedora  windows
+
+vinayak@github:~$ ls projects/
 portfolio-cli
 socket-chat
 compiler-rust
+cloud-simulation
+
+vinayak@github:~$ open vinayakrastogi.github.io
+
+
+
+
+
+
+--------------------------------------
+
+
+
 
 vinayak@github:~$ open vinayakrastogi.github.io
 
