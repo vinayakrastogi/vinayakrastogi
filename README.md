@@ -1,3 +1,9 @@
+> $ open vinayakrastogi.github.io
+
+
+
+
+
 <p align="left">
   <img height="100" src="main1.png">
   <br>
